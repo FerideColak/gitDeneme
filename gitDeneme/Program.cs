@@ -4,8 +4,8 @@ Console.WriteLine("Naber");
 Console.WriteLine("İyidir");
 
 Console.WriteLine("feride");
-Console.WriteLine("sema");
-Console.WriteLine("sema");
+Console.WriteLine("feride");
+Console.WriteLine("feride");
 Console.WriteLine("sema");
 Console.WriteLine("sema");
 Console.WriteLine("sema");
