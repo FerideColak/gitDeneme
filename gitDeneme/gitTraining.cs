@@ -9,5 +9,6 @@ namespace gitDeneme
     public class gitTraining
     {
         public int ID { get; set; }
+        public string Name { get; set; }
     }
 }
